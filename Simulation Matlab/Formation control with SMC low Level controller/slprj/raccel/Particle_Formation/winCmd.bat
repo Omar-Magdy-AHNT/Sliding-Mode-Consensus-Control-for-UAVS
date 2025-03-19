@@ -1,2 +1,0 @@
-chcp 65001
-cmd /D /c start "RapidAccelerator" /B "D:\drone\Formation\slprj\raccel\Particle_Formation\Particle_Formation.exe" --config "C:\Users\Omar\AppData\Local\Temp\raccel_inputp9d991e56_16c1_4e7d_953c_08560a30c199.cfg" -server_info_file "C:\Users\Omar\AppData\Local\Temp\tpp9d991e56_16c1_4e7d_953c_08560a30c199.info" -tgtconn_server_info_file "C:\Users\Omar\AppData\Local\Temp\tgtconnp9d991e56_16c1_4e7d_953c_08560a30c199.info" -tgtconn_port 0 -port 0 -w >"D:\drone\Formation\slprj\raccel\Particle_Formation\cmdLog.txt"
