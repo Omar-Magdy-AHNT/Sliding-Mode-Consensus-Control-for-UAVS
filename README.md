@@ -3,8 +3,8 @@
 ### Description  
 This project utilizes Hybrid Automata and Sliding Mode Control to tackle UAV consensus control. Simulations were conducted in MATLAB and ArduPilot-Gazebo for proof of concept.  
 
-### Full Report  
-For a detailed explanation of the methodology, simulations, and results, please refer to the [full report](/Report.pdf) available in this repository. It includes in-depth discussions on control strategies, implementation details, and performance evaluation.  
+### Report  
+For a detailed explanation of the methodology, simulations, and results, please refer to the [report](/Report.pdf) available in this repository. It includes in-depth discussions on control strategies, implementation details, and performance evaluation.  
 
 ### How To Run  
 
