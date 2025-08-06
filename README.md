@@ -26,4 +26,8 @@ For a detailed explanation of the methodology, simulations, and results, please 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for full details.
+
+This project was developed as a team effort.  
+All contributors are credited via the [GitHub contributors list](../../graphs/contributors).
